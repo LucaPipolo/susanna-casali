@@ -1,6 +1,6 @@
 const education = [
   {
-    date: '11/2022 - present',
+    date: '11/2022 - 12/2022',
     title: 'Scrum Master & Scrum Product Owner',
     location: 'Barcelona (ES)',
   },
