@@ -16,6 +16,18 @@ const tools = [
     alt: 'OW',
   },
   {
+    src: 'hotjar',
+    alt: 'Hotjar',
+  },
+  {
+    src: 'google-analytics',
+    alt: 'Google Analytics',
+  },
+  {
+    src: 'user-zoom',
+    alt: 'UserZoom',
+  },
+  {
     src: 'xd',
     alt: 'Adobe XD',
   },
